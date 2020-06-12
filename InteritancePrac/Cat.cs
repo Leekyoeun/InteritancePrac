@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InteritancePrac
 {
-    class Cat
+    class Cat : Animal
     {
         public int Age { get; set; }
         public string Color { get; set; }
